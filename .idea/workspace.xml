@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fee8c36f-a23e-4f53-96f6-9c36bd3962a7" name="Changes" comment="класс пароль и класс незнакомцы">
-      <change afterPath="$PROJECT_DIR$/src/main/java/RestaurantBillSplitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SnailClimb.java" afterDir="false" />
+    <list default="true" id="fee8c36f-a23e-4f53-96f6-9c36bd3962a7" name="Changes" comment="классы улитка и счет ресторана">
+      <change afterPath="$PROJECT_DIR$/src/main/java/AverageValueFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaxValueFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AverageValueFinder.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaxValueFinder.executor": "Run",
     "Application.Parol.executor": "Run",
     "Application.RestaurantBillSplitter.executor": "Run",
     "Application.SnailClimb.executor": "Run",
@@ -50,9 +52,16 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RestaurantBillSplitter">
-    <configuration name="Parol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Parol" />
+  <component name="RunManager" selected="Application.AverageValueFinder">
+    <configuration name="AverageValueFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AverageValueFinder" />
+      <module name="StepicJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxValueFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxValueFinder" />
       <module name="StepicJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimeConverter" />
-      <module name="StepicJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AverageValueFinder" />
+        <item itemvalue="Application.MaxValueFinder" />
         <item itemvalue="Application.RestaurantBillSplitter" />
         <item itemvalue="Application.SnailClimb" />
         <item itemvalue="Application.StrangerGreeting" />
-        <item itemvalue="Application.Parol" />
-        <item itemvalue="Application.TimeConverter" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731945203593</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="классы улитка и счет ресторана">
+      <option name="closed" value="true" />
+      <created>1731948069111</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731948069111</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,7 +154,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="класс пароль и класс незнакомцы" />
-    <option name="LAST_COMMIT_MESSAGE" value="класс пароль и класс незнакомцы" />
+    <MESSAGE value="классы улитка и счет ресторана" />
+    <option name="LAST_COMMIT_MESSAGE" value="классы улитка и счет ресторана" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
