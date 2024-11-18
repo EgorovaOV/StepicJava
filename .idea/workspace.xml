@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fee8c36f-a23e-4f53-96f6-9c36bd3962a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Parol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrangerGreeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TimeConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="fee8c36f-a23e-4f53-96f6-9c36bd3962a7" name="Changes" comment="класс пароль и класс незнакомцы">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +35,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.Parol.executor": "Run",
-    "Application.StrangerGreeting.executor": "Run",
+    "Application.StrangerGreeting.executor": "Debug",
     "Application.TimeConverter.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -113,6 +104,15 @@
       <option name="presentableId" value="Default" />
       <updated>1731777375577</updated>
     </task>
+    <task id="LOCAL-00001" summary="класс пароль и класс незнакомцы">
+      <option name="closed" value="true" />
+      <created>1731828206494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731828206494</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="класс пароль и класс незнакомцы" />
+    <option name="LAST_COMMIT_MESSAGE" value="класс пароль и класс незнакомцы" />
   </component>
 </project>
