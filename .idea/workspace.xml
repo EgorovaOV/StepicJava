@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fee8c36f-a23e-4f53-96f6-9c36bd3962a7" name="Changes" comment="классы улитка и счет ресторана">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AverageValueFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaxValueFinder.java" afterDir="false" />
+    <list default="true" id="fee8c36f-a23e-4f53-96f6-9c36bd3962a7" name="Changes" comment="классы среднее и максимум">
+      <change afterPath="$PROJECT_DIR$/src/main/java/MatrixTranspose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaxValueInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PizzaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QuadraticEquationSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SumOfEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SumOfPreviousElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +44,18 @@
   "keyToString": {
     "Application.AverageValueFinder.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MatrixTranspose.executor": "Run",
     "Application.MaxValueFinder.executor": "Run",
+    "Application.MaxValueInArray.executor": "Run",
     "Application.Parol.executor": "Run",
+    "Application.PizzaCalculator.executor": "Run",
+    "Application.QuadraticEquationSolver.executor": "Run",
     "Application.RestaurantBillSplitter.executor": "Run",
     "Application.SnailClimb.executor": "Run",
+    "Application.SpiralMatrix.executor": "Run",
     "Application.StrangerGreeting.executor": "Debug",
+    "Application.SumOfEvenNumbers.executor": "Run",
+    "Application.SumOfPreviousElements.executor": "Run",
     "Application.TimeConverter.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -52,37 +64,37 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AverageValueFinder">
-    <configuration name="AverageValueFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AverageValueFinder" />
+  <component name="RunManager" selected="Application.MatrixTranspose">
+    <configuration name="MatrixTranspose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixTranspose" />
       <module name="StepicJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxValueFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxValueFinder" />
+    <configuration name="MaxValueInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxValueInArray" />
       <module name="StepicJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestaurantBillSplitter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RestaurantBillSplitter" />
+    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpiralMatrix" />
       <module name="StepicJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SnailClimb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SnailClimb" />
+    <configuration name="SumOfEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfEvenNumbers" />
       <module name="StepicJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrangerGreeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StrangerGreeting" />
+    <configuration name="SumOfPreviousElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfPreviousElements" />
       <module name="StepicJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AverageValueFinder" />
-        <item itemvalue="Application.MaxValueFinder" />
-        <item itemvalue="Application.RestaurantBillSplitter" />
-        <item itemvalue="Application.SnailClimb" />
-        <item itemvalue="Application.StrangerGreeting" />
+        <item itemvalue="Application.MatrixTranspose" />
+        <item itemvalue="Application.SpiralMatrix" />
+        <item itemvalue="Application.SumOfPreviousElements" />
+        <item itemvalue="Application.SumOfEvenNumbers" />
+        <item itemvalue="Application.MaxValueInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731948069111</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="классы среднее и максимум">
+      <option name="closed" value="true" />
+      <created>1731949604214</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731949604214</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,7 +175,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="класс пароль и класс незнакомцы" />
     <MESSAGE value="классы улитка и счет ресторана" />
-    <option name="LAST_COMMIT_MESSAGE" value="классы улитка и счет ресторана" />
+    <MESSAGE value="классы среднее и максимум" />
+    <option name="LAST_COMMIT_MESSAGE" value="классы среднее и максимум" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -169,6 +190,20 @@
           <url>file://$PROJECT_DIR$/src/main/java/RestaurantBillSplitter.java</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MatrixTranspose.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/QuadraticEquationSolver.java</url>
+          <line>3</line>
+          <properties class="QuadraticEquationSolver" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
